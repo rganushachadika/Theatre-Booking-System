@@ -24,7 +24,7 @@ git clone https://github.com/rganushachadika/Theatre.git
 
 
 ```bash
-cd your Theatre
+cd Theatre
 ```
 
 ## Usage
